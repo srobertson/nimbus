@@ -21,7 +21,7 @@ Details:
 
   nimbus show <template>            -- output the template in json
 
-  nimbus list                       -- show running stack_stacks
+  nimbus list                       -- show running stacks
 
   nimbus create <stack> [template]  -- create stack with the given name <stack>
                                      template required if more than one 
